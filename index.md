@@ -75,8 +75,9 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
-<strong>Some adblockers block the registration window. If you do not see the
-  registration box below, please check your adblocker settings.</strong>
+<strong>Some adblockers block the registration window. If you do not see the registration box below, please check your adblocker settings.</strong>
+Alternatively, you can register for the workshop <strong><a href="https://drive.tools.coscine.dev/form/#/2/form/view/Y8vZ+Fev4z3WkYiDpmBGbl1JHEMU2GQ17C-ANzb4w3Y/embed/">HERE</a></strong>
+
 <iframe
   src="https://drive.tools.coscine.dev/form/#/2/form/view/Y8vZ+Fev4z3WkYiDpmBGbl1JHEMU2GQ17C-ANzb4w3Y/embed/"
   frameborder="0"
@@ -84,9 +85,6 @@ displayed if the 'eventbrite' field in the header is not set.
   height="800px"
   scrolling="auto">
 </iframe>
-
-Alternatively, you can register for the workshop <strong><a href="https://drive.tools.coscine.dev/form/#/2/form/view/Y8vZ+Fev4z3WkYiDpmBGbl1JHEMU2GQ17C-ANzb4w3Y/embed/">HERE</a></strong>
-
 
 <h2 id="general">General Information</h2>
 
