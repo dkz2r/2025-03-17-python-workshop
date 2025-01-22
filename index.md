@@ -76,7 +76,7 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 <strong>Some adblockers block the registration window. If you do not see the registration box below, please check your adblocker settings.</strong>
-<p>Alternatively, you can register for the workshop <strong><a href="https://cryptpad.fr/form/#/2/form/view/Av5994agm0avvs6A4bQLA+8LFqXn7QeDzPQodaYIs7M/embed/">HERE</a></strong></p>p>
+<p>Alternatively, you can register for the workshop <strong><a href="https://cryptpad.fr/form/#/2/form/view/Av5994agm0avvs6A4bQLA+8LFqXn7QeDzPQodaYIs7M/embed/">HERE</a></strong></p>
 
 <iframe
   src="https://cryptpad.fr/form/#/2/form/view/Av5994agm0avvs6A4bQLA+8LFqXn7QeDzPQodaYIs7M/embed/"
